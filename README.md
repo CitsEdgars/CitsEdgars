@@ -1,0 +1,27 @@
+- 👋 Hi, I’m @CitsEdgars - a humble student from Latvia :)
+- 
+- 👀 I’m interested in applied mathematics in general, but more specifically: 
+- cyptography public-private key, EC, etc.;
+- fast algorithms;
+- efficient algorithms;
+- data driven action (machine learning, statistics, pattern recognition;
+- computer vision, 3D modelling.
+- 
+- 🌱 I’m currently studying in CS master's program with additional focus on:
+- fast algorithms;
+- efficient data structures;
+- machine learning, statistics and big data;
+- cryptography;
+- quantum computers and quantum algorithms;
+- 
+- 💞️ I’m looking to collaborate on any of the previously mentioned fields. 
+- I believe in giving back to the community through public projects and libraries.
+- A lot of the best tools are free and community created. :)
+- 
+- A lot of the stuff I upload here are some minor university projects and personal 
+- projects that are mostly done for fun and/or self-education/training purposes
+- 
+- 📫 How to reach me:
+- Email: citsedgars@gmail.com
+- Twitter (If I haven't left it in the future): @citsedzis
+- Facebook: https://www.facebook.com/edgars.liepins.98/
